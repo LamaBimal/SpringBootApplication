@@ -1,9 +1,10 @@
-package com.test.rest;
+package com.test.rest.controller;
 
 /**
  * Created by bimal on 11/4/17.
  */
 import java.util.concurrent.atomic.AtomicLong;
+import com.test.rest.pojo.Greeting;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;

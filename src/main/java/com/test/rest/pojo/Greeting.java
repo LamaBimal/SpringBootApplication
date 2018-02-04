@@ -1,4 +1,4 @@
-package com.test.rest;
+package com.test.rest.pojo;
 
 /**
  * Created by bimal on 11/4/17.
